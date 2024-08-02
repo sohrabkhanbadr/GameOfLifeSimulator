@@ -7,3 +7,4 @@
 ## خودکارای سلولی
 - [Nature of Code - خودکارای سلولی ابتدایی](https://natureofcode.com/cellular-automata/#elementary-cellular-automata)
 - [Stanford Encyclopedia of Philosophy - خودکارای سلولی](https://plato.stanford.edu/entries/cellular-automata/)
+- [Cellular Automata - اتوماتای سلولی](https://web.math.unifi.it/users/brambilla/homepage/automi/cellaut.html)
